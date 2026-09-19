@@ -466,6 +466,7 @@ Detection tools are imperfect — treat results as signal, not proof.
 - **[Teal](https://www.tealhq.com)** — AI resume builder + job tracker with Chrome extension. | Free: unlimited resumes, 11 templates, full job tracking | Best for: active job seekers applying at scale | Catch: AI tailoring + Match Score gated to Teal+ ($29/mo).
 - **[Rezi](https://www.rezi.ai)** — ATS-optimized with a 23-metric Rezi Score. | Free: 1 resume, 3 PDF downloads, unlimited DOCX, AI keyword targeting | Best for: ATS-focused applicants | Catch: 1-resume cap.
 - **[Kickresume](https://www.kickresume.com)** — GPT-powered with 1,500+ examples. | Free: basic builder + limited AI | Best for: early-career, design-conscious | Catch: premium templates/downloads paywalled.
+- **[ResumeAI](https://withresumeai.com)** — Free ATS resume checker + open State of ATS dataset. | Free: 3 checks/day anonymous, 10/day with free account | Best for: ATS keyword/format checks before apply | Catch: advanced features on paid plans.
 - **[Enhancv](https://enhancv.com)** — Visually rich templates with AI content. | Free: build but limited downloads | Best for: creative roles | Catch: free export is restrictive.
 - **[FlowCV](https://flowcv.com)** — Genuinely free ATS-friendly builder. | Free: unlimited resumes + PDFs, no watermark | Best for: budget-conscious users | Catch: lighter AI than Teal/Rezi.
 
